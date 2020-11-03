@@ -18,8 +18,3 @@ def find_index(source:str, target:str):
                     return ret_idx
     if ret_idx == 0:
         return -1
-
-print(find_index('pablo echegorri', 'eche'), )
-print(find_index('pablo echegorri', 'i'))
-# print(find_index('pablo echegorri', 'eche'))
-# print(find_index('pablo echegorri', 'eche'))
